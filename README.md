@@ -9,17 +9,15 @@
 
 ## Stats
 
-![](https://img.shields.io/tokei/lines/noe-gif/Dating-app-React-Native?color=orange&label=Total%20Lines&logo=kotlin&logoColor=white)
-[![](https://img.shields.io/github/downloads/noe-gif/Dating-app-React-Native/total?color=orange&label=Total%20Downloads%20(GitHub)&logo=github&logoColor=white)](https://tooomm.github.io/github-release-stats/?username=noe-gif&repository=Dating-app-React-Native)
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fnoe-gif%2FDating-app-React-Native&count_bg=%239A3DC8&title_bg=%23555555&icon=tencentweibo.svg&icon_color=%23E7E7E7&title=Total+Visits&edge_flat=false)](https://hits.seeyoufarm.com)
-[![Release](https://img.shields.io/github/v/release/noe-gif/Dating-app-React-Native?color=52be80&label=Release)](https://github.com/noe-gif/Dating-app-React-Native/releases)
-![](https://img.shields.io/github/languages/count/noe-gif/Dating-app-React-Native?color=white&label=Languages)
-![](https://img.shields.io/github/license/noe-gif/Dating-app-React-Native?color=red&label=License)
-![](https://img.shields.io/badge/Minimum%20SDK-23%20(Marshmallow)-839192?logo=android&logoColor=white)
-![](https://img.shields.io/badge/Target%20SDK-33%20(Android%2013)-566573?logo=android&logoColor=white)
+![](https://img.shields.io/tokei/lines/noe-gif/Ecom-website-React?color=orange&label=Total%20Lines&logo=kotlin&logoColor=white)
+[![](https://img.shields.io/github/downloads/noe-gif/Ecom-website-React/total?color=orange&label=Total%20Downloads%20(GitHub)&logo=github&logoColor=white)](https://tooomm.github.io/github-release-stats/?username=noe-gif&repository=Dating-app-React-Native)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fnoe-gif%Ecom-website-React&count_bg=%239A3DC8&title_bg=%23555555&icon=tencentweibo.svg&icon_color=%23E7E7E7&title=Total+Visits&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Release](https://img.shields.io/github/v/release/noe-gif/Ecom-website-React?color=52be80&label=Release)](https://github.com/noe-gif/Ecom-website-React/releases)
+![](https://img.shields.io/github/languages/count/noe-gif/Ecom-website-React?color=white&label=Languages)
+![](https://img.shields.io/github/license/noe-gif/Ecom-website-React?color=red&label=License)
 [![Crowdin](https://badges.crowdin.net/inure/localized.svg)](https://crowdin.com/project/inure)
 
-# MBTI matching dating app
+# Ecommerce app
 
 The app was made in only 1 hour using tailwind css and enhanced with AI production to be able to output a minimal project in the shortest time as possible.
 Which in this case was 50 minutes.
