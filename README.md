@@ -71,19 +71,20 @@ Dating-app-React-Native/
 
 ## Dependencies
 
-| Name                   | Description                                  | Version                    |
-| ---------------------- | -------------------------------------------- | -------------------------- |
-| [react-navigation]     | Navigation library                           | ^6.9.12                    |
-| [moti]                 | Animation library                            | ^0.24.2                    |
-| [react-content-loader] | Placeholder component library                | ^6.2.1                     |
-| [gesture-handler]      | Gesture recognition library                  | ^2.9.0                     |
-| [linear-gradient]      | Linear gradient component                    | ^3.0.2                     |
-| [reanimated]           | Animation library                            | ^18.1.0                    |
-| [redash]               | Utility library for animations               | ^4.5.1                     |
-| [safe-area-context]    | Safe area component                          | ^3.20.0                    |
-| [native-screens]       | Native screen components                     | ^3.3.0                     |
-| [native-splash-screen] | Splash screen library                        | ^13.9.0                    |
-| [native-svg]           | SVG rendering library                        | ^9.6.5                     |
++------------------------+------------------------------------------+-----------+
+| Name                   | Description                              | Version   |
++------------------------+------------------------------------------+-----------+
+| [@headlessui/react]    | Accessible UI components library         | ^1.7.14   |
+| [@heroicons/react]     | Customizable SVG icons library           | ^2.0.17   |
+| [@jest-dom]            | Custom matchers for Jest                 | ^5.16.5   |
+| [@test/react]          | Testing utilities for React              | ^13.4.0   |
+| [@testing/user-event]  | User events simulation for testing       | ^13.5.0   |
+| [react]                | JavaScript library for building UIs      | ^18.2.0   |
+| [react-dom]            | React package for working with the DOM   | ^18.2.0   |
+| [react-scripts]        | Configuration and scripts for React app  | 5.0.1     |
+| [tailwindcss]          | CSS framework for building UIs           | ^3.3.2    |
+| [web-vitals]           | Library for tracking web vitals          | ^2.1.4    |
++------------------------+------------------------------------------+-----------+
 
 ## License
 
@@ -93,17 +94,16 @@ Dating-app-React-Native/
 the [GPL v3](https://opensource.org/licenses/gpl-3.0.html)
 license, see the [LICENSE](./LICENSE) file in the project root for the full license text.
 
-[react-navigation]: https://reactnavigation.org/docs/getting-started/
-[moti]: https://moti.fyi/
-[react-content-loader]: https://www.npmjs.com/package/react-content-loader
-[gesture-handler]: https://www.npmjs.com/package/react-native-gesture-handler
-[linear-gradient]: https://github.com/react-native-linear-gradient/react-native-linear-gradient
-[reanimated]: https://docs.swmansion.com/react-native-reanimated/
-[redash]: https://www.npmjs.com/package/redash
-[safe-area-context]: https://www.npmjs.com/package/react-native-safe-area-context
-[native-screens]: https://www.npmjs.com/package/react-native-screens
-[native-splash-screen]: https://www.npmjs.com/package/react-native-splash-screen
-[native-svg]: https://www.npmjs.com/package/react-native-svg
+[@headlessui/react]: https://headlessui.dev/react/
+[@heroicons/react]: https://heroicons.com/react/
+[@jest-dom]: https://testing-library.com/docs/ecosystem-jest-dom/
+[@test/react]: https://testing-library.com/docs/react-testing-library/intro/
+[@testing/user-event]: https://testing-library.com/docs/ecosystem-user-event/
+[react]: https://reactjs.org/docs/getting-started.html
+[react-dom]: https://reactjs.org/docs/react-dom.html
+[react-scripts]: https://create-react-app.dev/docs/getting-started/
+[tailwindcss]: https://tailwindcss.com/docs
+[web-vitals]: https://web.dev/vitals/
 
 
 [tutorial]: assets/lv_0_20230502125528.gif
