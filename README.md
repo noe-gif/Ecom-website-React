@@ -1,7 +1,7 @@
-<h1 align="center">Dating app UI/UX using React Native</h1></br>
+<h1 align="center">React Web Ecommerce app</h1></br>
 
 <p align="center">
-📱 This project is a react-native mobile application interface
+🛒 This project is a react web-app using tailwind styling
 </p>
 <br>
 
@@ -21,7 +21,8 @@
 
 # MBTI matching dating app
 
-User interface and experience
+The app was made in only 1 hour using tailwind css and enhanced with AI production to be able to output a minimal project in the shortest time as possible.
+Which in this case was 50 minutes.
 
 <p align="center">
 <img src="assets/lv_0_20230502125528.gif" alt="androiddevnotes logo"></img>
