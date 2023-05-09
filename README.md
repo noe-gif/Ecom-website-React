@@ -71,9 +71,8 @@ Dating-app-React-Native/
 
 ## Dependencies
 
-+------------------------+------------------------------------------+-----------+
 | Name                   | Description                              | Version   |
-+------------------------+------------------------------------------+-----------+
+| ---------------------- | ---------------------------------------- | --------- |
 | [@headlessui/react]    | Accessible UI components library         | ^1.7.14   |
 | [@heroicons/react]     | Customizable SVG icons library           | ^2.0.17   |
 | [@jest-dom]            | Custom matchers for Jest                 | ^5.16.5   |
@@ -84,7 +83,6 @@ Dating-app-React-Native/
 | [react-scripts]        | Configuration and scripts for React app  | 5.0.1     |
 | [tailwindcss]          | CSS framework for building UIs           | ^3.3.2    |
 | [web-vitals]           | Library for tracking web vitals          | ^2.1.4    |
-+------------------------+------------------------------------------+-----------+
 
 ## License
 
