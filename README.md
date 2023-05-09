@@ -31,24 +31,15 @@ User interface and experience
 
 Follow these instructions to build and run the project
 
-### Setup React Native
+### Setup React Web App
 
-A detailed guide for react native cli platforms setup could be find [here](https://reactnative.dev/docs/environment-setup)
-
-### Setup Project
-
-- Clone this repository using `git clone https://github.com/noe-gif/Dating-app-React-Native.git`.
-- `cd` into `Dating-app-React-Native`.
+- Clone this repository using `git clone https://github.com/noe-gif/Ecom-website-React.git`.
+- `cd` into `<project-name>`.
 - `npm i` to get all the dependencies.
-- Generate library files using react-link (**required**) 
-```
-react-native link
-```
 - Run
-```
-npm start || react-native run-android || react-native run-ios
-```
-> Mobile App enforces [Conventional Commits specification](https://www.conventionalcommits.org/en/v1.0.0/), make sure to read and follow them.
+
+> The app enforces [Conventional Commits specification](https://www.conventionalcommits.org/en/v1.0.0/), make sure to read and follow them.
+
 ## Project Structure
 
 ```bash
